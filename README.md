@@ -6,7 +6,7 @@
 </p>
 
 ## 🤖 About Me
-I am a **Machine Learning Engineer** dedicated to bridging the gap between complex research and production-ready systems.
+I am a **Machine Learning Engineer** dedicated to bridging the gap between complex research and production-ready systems. 
 
 * ⚡ **Impact:** Delivered **85% efficiency gains** using domain-adapted transformer architectures.
 * 🚀 **Performance:** Engineered RAG pipelines and GPU-accelerated systems with **<100ms response times**.
@@ -29,12 +29,12 @@ I am a **Machine Learning Engineer** dedicated to bridging the gap between compl
 
 ## 📊 Real-Time GitHub Analytics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashdonaiml&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdonaiml&layout=compact&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashdonaiml&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdonaiml&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashdonaiml&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashdonaiml&theme=tokyonight" />
 </p>
 
 ---
@@ -47,7 +47,7 @@ I am a **Machine Learning Engineer** dedicated to bridging the gap between compl
 ---
 
 ## 📬 Connect With Me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/yaswanth-kumar-donthuboyina)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:yaswanthaimlkumar@gmail.com)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/yashdonaiml)
 
