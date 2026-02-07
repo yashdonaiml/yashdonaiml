@@ -1,21 +1,56 @@
-# 💫 About Me:
-Hi 👋, I'm Yaswanth Kumar <br><br><br>Subtitle: Machine Learning Engineer specializing in production NLP and high-performance retrieval systems.<br><br>I am a Machine Learning Engineer focused on translating complex requirements into reliable, infrastructure-efficient ML systems. I have a proven track record of delivering 85% efficiency gains through domain-adapted transformer architectures and semantic similarity engines. My expertise includes GPU-accelerated inference, containerized model serving, and low-latency RAG pipelines, consistently achieving <100ms response times for enterprise-scale applications.<br>
+# 💫 Yaswanth Kumar | Machine Learning Engineer
+### 🏗️ Building High-Performance NLP & Retrieval Systems
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yaswanth%20Kumar&fontSize=70&animation=fadeIn" />
+</p>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yaswanthaimlkumar@gmail.com) 
+## 🤖 About Me
+[cite_start]I am a **Machine Learning Engineer** dedicated to bridging the gap between complex research and production-ready systems[cite: 4, 7]. 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yashdonaiml&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yashdonaiml&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashdonaiml&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+* [cite_start]⚡ **Impact:** Delivered **85% efficiency gains** using domain-adapted transformer architectures[cite: 5, 20].
+* [cite_start]🚀 **Performance:** Engineered RAG pipelines and GPU-accelerated systems with **<100ms response times**[cite: 6, 19].
+* [cite_start]🛠️ **Scale:** Architected ETL pipelines handling **1M+ daily records**[cite: 27].
+* [cite_start]🎓 **Education:** M.S. in Data Science from the University of Memphis (GPA: 3.7)[cite: 44].
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yashdonaiml&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack & Ecosystem
+### 🧠 AI & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-yellow?style=for-the-badge)
+
+### ⛓️ GenAI & RAG
+![LLM](https://img.shields.io/badge/LLMs-GPT--4%20%7C%20Llama%203-blue?style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-white?style=for-the-badge&logo=langchain&logoColor=black) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-blueviolet?style=for-the-badge)
+
+### 🏗️ MLOps & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+---
+
+## 📊 Real-Time GitHub Analytics
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashdonaiml&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdonaiml&layout=compact&theme=dracula" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashdonaiml&theme=dracula" />
+</p>
+
+---
+
+## 🏆 Key Projects
+* [cite_start]🔍 **Document Intelligence RAG:** Multi-stage OCR (PaddleOCR) & LlamaIndex for complex mortgage docs[cite: 31, 33].
+* [cite_start]🎙️ **LocalScribe AI:** On-device speech intelligence using Whisper & Ollama[cite: 35, 37].
+* [cite_start]🧬 **BioBERT-CRF:** Specialized NER for 200K+ records with sub-100ms inference[cite: 17, 19].
+
+---
+
+## 📬 Connect With Me
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:yaswanthaimlkumar@gmail.com)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/yashdonaiml)
+
+<p align="right">
+  <img src="https://visitcount.itsvg.in/api?id=yashdonaiml&icon=5&color=12" />
+</p>
