@@ -29,12 +29,12 @@ I am a **Machine Learning Engineer** dedicated to bridging the gap between compl
 
 ## 📊 Real-Time GitHub Analytics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashdonaiml&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdonaiml&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashdonaiml&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashdonaiml&layout=compact&theme=material-palenight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashdonaiml&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=yashdonaiml&theme=material-palenight" />
 </p>
 
 ---
