@@ -6,7 +6,7 @@
 </p>
 
 ## 🤖 About Me
-I am a **Machine Learning Engineer** dedicated to bridging the gap between complex research and production-ready systems. 
+I am a **Machine Learning Engineer** dedicated to bridging the gap between complex research and production-ready systems.
 
 * ⚡ **Impact:** Delivered **85% efficiency gains** using domain-adapted transformer architectures.
 * 🚀 **Performance:** Engineered RAG pipelines and GPU-accelerated systems with **<100ms response times**.
@@ -34,7 +34,7 @@ I am a **Machine Learning Engineer** dedicated to bridging the gap between compl
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yashdonaiml&theme=material-palenight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashdonaiml&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
