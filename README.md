@@ -6,12 +6,12 @@
 </p>
 
 ## 🤖 About Me
-[cite_start]I am a **Machine Learning Engineer** dedicated to bridging the gap between complex research and production-ready systems[cite: 4, 7]. 
+I am a **Machine Learning Engineer** dedicated to bridging the gap between complex research and production-ready systems.
 
-* [cite_start]⚡ **Impact:** Delivered **85% efficiency gains** using domain-adapted transformer architectures[cite: 5, 20].
-* [cite_start]🚀 **Performance:** Engineered RAG pipelines and GPU-accelerated systems with **<100ms response times**[cite: 6, 19].
-* [cite_start]🛠️ **Scale:** Architected ETL pipelines handling **1M+ daily records**[cite: 27].
-* [cite_start]🎓 **Education:** M.S. in Data Science from the University of Memphis (GPA: 3.7)[cite: 44].
+* ⚡ **Impact:** Delivered **85% efficiency gains** using domain-adapted transformer architectures.
+* 🚀 **Performance:** Engineered RAG pipelines and GPU-accelerated systems with **<100ms response times**.
+* 🛠️ **Scale:** Architected ETL pipelines handling **1M+ daily records**.
+* 🎓 **Education:** M.S. in Data Science from the University of Memphis (GPA: 3.7).
 
 ---
 
@@ -29,20 +29,20 @@
 
 ## 📊 Real-Time GitHub Analytics
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashdonaiml&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdonaiml&layout=compact&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashdonaiml&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashdonaiml&layout=compact&theme=dracula" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashdonaiml&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashdonaiml&theme=dracula" />
 </p>
 
 ---
 
 ## 🏆 Key Projects
-* [cite_start]🔍 **Document Intelligence RAG:** Multi-stage OCR (PaddleOCR) & LlamaIndex for complex mortgage docs[cite: 31, 33].
-* [cite_start]🎙️ **LocalScribe AI:** On-device speech intelligence using Whisper & Ollama[cite: 35, 37].
-* [cite_start]🧬 **BioBERT-CRF:** Specialized NER for 200K+ records with sub-100ms inference[cite: 17, 19].
+* 🔍 **Document Intelligence RAG:** Multi-stage OCR (PaddleOCR) & LlamaIndex for complex mortgage docs.
+* 🎙️ **LocalScribe AI:** On-device speech intelligence using Whisper & Ollama.
+* 🧬 **BioBERT-CRF:** Specialized NER for 200K+ records with sub-100ms inference.
 
 ---
 
