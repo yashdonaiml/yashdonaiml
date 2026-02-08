@@ -6,12 +6,12 @@
 </p>
 
 ## 🤖 About Me
-I am a **Machine Learning Engineer** dedicated to bridging the gap between complex research and production-ready systems.
+[cite_start]I am a **Machine Learning Engineer** dedicated to bridging the gap between complex research and production-ready systems[cite: 4, 7].
 
-* ⚡ **Impact:** Delivered **85% efficiency gains** using domain-adapted transformer architectures.
-* 🚀 **Performance:** Engineered RAG pipelines and GPU-accelerated systems with **<100ms response times**.
-* 🛠️ **Scale:** Architected ETL pipelines handling **1M+ daily records**.
-* 🎓 **Education:** M.S. in Data Science from the University of Memphis (GPA: 3.7).
+* [cite_start]⚡ **Impact:** Delivered **85% efficiency gains** using domain-adapted transformer architectures[cite: 5, 20].
+* [cite_start]🚀 **Performance:** Engineered RAG pipelines and GPU-accelerated systems with **<100ms response times**[cite: 6, 19].
+* [cite_start]🛠️ **Scale:** Architected ETL pipelines handling **1M+ daily records**[cite: 27].
+* [cite_start]🎓 **Education:** M.S. in Data Science from the University of Memphis (GPA: 3.7)[cite: 44].
 
 ---
 
@@ -30,7 +30,7 @@ I am a **Machine Learning Engineer** dedicated to bridging the gap between compl
 ## 📊 Real-Time GitHub Analytics
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashdonaiml&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashdonaiml&layout=compact&theme=material-palenight" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashdonaiml&layout=compact&theme=material-palenight&hide=jupyter%20notebook" />
 </p>
 
 <p align="center">
@@ -40,9 +40,9 @@ I am a **Machine Learning Engineer** dedicated to bridging the gap between compl
 ---
 
 ## 🏆 Key Projects
-* 🔍 **Document Intelligence RAG:** Multi-stage OCR (PaddleOCR) & LlamaIndex for complex mortgage docs.
-* 🎙️ **LocalScribe AI:** On-device speech intelligence using Whisper & Ollama.
-* 🧬 **BioBERT-CRF:** Specialized NER for 200K+ records with sub-100ms inference.
+* [cite_start]🔍 **Document Intelligence RAG:** Multi-stage OCR (PaddleOCR) & LlamaIndex for complex mortgage docs[cite: 31, 33].
+* [cite_start]🎙️ **LocalScribe AI:** On-device speech intelligence using Whisper & Ollama[cite: 35, 37].
+* [cite_start]🧬 **BioBERT-CRF:** Specialized NER for 200K+ records with sub-100ms inference[cite: 17, 19].
 
 ---
 
@@ -52,5 +52,5 @@ I am a **Machine Learning Engineer** dedicated to bridging the gap between compl
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/yashdonaiml)
 
 <p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=yashdonaiml&icon=5&color=12" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyashdonaiml&count_bg=%230077B5&title_bg=%23555555&icon=eye.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" />
 </p>
