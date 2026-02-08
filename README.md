@@ -47,7 +47,7 @@ I am a **Machine Learning Engineer** dedicated to bridging the gap between compl
 ---
 
 ## 📬 Connect With Me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/yaswanth-kumar-donthuboyina)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/yaswanthkumard)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:yaswanthaimlkumar@gmail.com)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/yashdonaiml)
 
